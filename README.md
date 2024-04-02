@@ -1,6 +1,6 @@
 # UnitySplashScreen
 
-> Splash Screen for unity3D
+> I have been working on a splash screen for my game over the last few days and I wanted to share my process. I hope you find this project useful. Happy coding!
 
 ### Preview
 ![Screenshot](src/Capturar.PNG)
