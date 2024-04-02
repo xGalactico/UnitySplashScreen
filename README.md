@@ -137,14 +137,14 @@ static bool ShowSplashScreen(HINSTANCE hInstance, LPCWSTR lpWindowName, int mill
  * Right click on "WindowsPlayer.rc" and view code
  * Change "WinPlayerVersion.rc" to "WindowsPlayerVersion.rc"
 
-```cpp
+```
 3 TEXTINCLUDE 
 BEGIN
     "#include ""WindowsPlayerVersion.rc""\0"
 END
 ```
 
-```cpp
+```
 #ifndef APSTUDIO_INVOKED
 /////////////////////////////////////////////////////////////////////////////
 //
@@ -156,4 +156,7 @@ END
 ```
  * In other cases, check the name of the resource in your project folder
 
-### 😄 I hope it is useful for you! :shipit:
+## :hash: Others
+Old [Unity3DSplashScreen](https://github.com/xGalactico/Unity3DSplashScreen/tree/main) Project
+
+### 😄 I hope it is useful for you!
