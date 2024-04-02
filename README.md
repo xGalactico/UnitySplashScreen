@@ -132,7 +132,7 @@ static bool ShowSplashScreen(HINSTANCE hInstance, LPCWSTR lpWindowName, int mill
 > [!WARNING]
 > Code not tested in production.
 
-## 🔴 Problems you may need to fix
+## 🔴 Issues you may need to fix
 [RC1015](https://learn.microsoft.com/en-us/cpp/error-messages/tool-errors/resource-compiler-fatal-error-rc1015?view=msvc-170) cannot open include file 'WinPlayerVersion.rc'.
  * Right click on "WindowsPlayer.rc" and view code
  * Change "WinPlayerVersion.rc" to "WindowsPlayerVersion.rc"
