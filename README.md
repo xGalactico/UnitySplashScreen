@@ -1,5 +1,9 @@
 # UnitySplashScreen
+
 > Splash Screen for unity3D
+
+### Preview
+![Screenshot](src/Capturar.PNG)
 
 ## 📘 Using the code
 
