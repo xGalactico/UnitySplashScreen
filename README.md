@@ -5,6 +5,10 @@
 ### Preview
 ![Screenshot](src/Capturar.PNG)
 
+<sub>BACK 4 BLOOD™ © Turtle Rock Studios, Inc. All Rights Reserved. BACK 4 BLOOD™ and the BACK 4 BLOOD™ logo are the trademarks and/or registered trademarks of Slamfire, Inc. throughout the world. Turtle Rock Studios® and the Turtle Rock Studios® logo are the trademarks and/or registered trademarks of Turtle Rock Studios, Inc. throughout the world. Published by WB Games Inc. All other trademarks are the property of their respective owners. All rights reserved.</sub>
+
+<sub>WARNER BROS. GAMES LOGO, WB SHIELD: TM & © Warner Bros. Entertainment Inc.(s23)</sub>
+
 ## 📘 Using the code
 
 * In the unity build settings, check Create Visual Studio Solution.
@@ -159,4 +163,4 @@ END
 ## :hash: Others
 Old [Unity3DSplashScreen](https://github.com/xGalactico/Unity3DSplashScreen/tree/main) Project
 
-### 😄 I hope it is useful for you!
+😄 I hope it is useful for you!
