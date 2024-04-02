@@ -163,4 +163,4 @@ END
 ## :hash: Others
 Old [Unity3DSplashScreen](https://github.com/xGalactico/Unity3DSplashScreen/tree/main) Project
 
-😄 I hope you guys find this project useful. Happy coding!!
+😄 I hope you guys find this project useful. Happy coding!
