@@ -13,7 +13,7 @@
 
 * In the unity build settings, check Create Visual Studio Solution.
 * Add an image with .bmp (bitmap) format to the "WindowsPlayer.rc" resource.
-* Include "resource.h" in "PrecompiledHeader.h", If necessary, also include <CommCtrl.h>.
+* Include "resource.h" in "Main.cpp", If necessary, also include <CommCtrl.h>.
 * Add the code above wWinMain(...) in Main.cpp
 * Call ShowSplashScreen in wWinMain(...)
 
